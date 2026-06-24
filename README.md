@@ -1,4 +1,4 @@
-# ARTINUS 프론트엔드 과제 전형
+# 2026-06 ARTINUS Frontend Engineer 과제 전형
 
 ---
 
